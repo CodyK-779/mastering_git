@@ -1,4 +1,4 @@
-## Hello, Git!
+## Welcome to Git!
 
-- I'm adding this from 'feature-branch'
+- Changed this line from 'branch-1'
 - I'm adding this new line from hello_file
