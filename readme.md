@@ -1,4 +1,5 @@
-## Oiiiii sukablyat mucho gracius amigo kono baka bankai opai samurai
+## Welcome to Git!
 
 - Yooo Jonny here what is up everybodyyyy
-- I'm adding this new line from jonny-branch and whatchu gon do about it huh?
+- Changed this line from 'branch-1'
+- I'm adding this new line from hello_file
